@@ -1,4 +1,9 @@
 ### Hi there 👋
+- :relieved: My name is Matthew.
+- 😄 Pronouns: he/him
+- 🌱 I’m currently learning "Spring Frame-work."
+- 📫 How to reach me: gonzalez.matthew.steven@gmail.com
+- ⚡ Fun fact: You're an awesome amazing person, and you're doing so well.
 
 <!--
 **Matthew-Steven-Gonzalez/Matthew-Steven-Gonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
