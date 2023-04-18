@@ -1,7 +1,8 @@
 ### Hi there 👋
 - :relieved: My name is Matthew.
 - 😄 Pronouns: he/him
-- 🌱 I’m currently learning "Spring Frame-work."
+- 🌱 I’m currently learning "C#."
+- 🤔 I’m looking for help with game design.
 - 📫 How to reach me: gonzalez.matthew.steven@gmail.com
 - ⚡ Fun fact: You're an awesome amazing person, and you're doing so well.
 
